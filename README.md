@@ -11,9 +11,8 @@ I love solving problems, building projects, and exploring how technology can imp
 - 📫 How to reach me: [gr9awaab@gmail.com](mailto:gr9awaab@gmail.com)  
 
 ### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awaab09)  [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awaab09)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 
----
 
 ### 🛠️ Languages & Tools  
 
